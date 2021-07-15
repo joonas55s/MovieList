@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">movielistList</h3>
+  <h3 align="center">MovieList</h3>
 
   <p align="center">
     Site catalogo de filmes para consulta nele é possivel ver a nota do filme e sua sinopse
